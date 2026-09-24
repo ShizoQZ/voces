@@ -1,5 +1,0 @@
-Audios de la Trivia: audio_1.mp3 ... audio_5.mp3 (uno por parte).
-Videos (con el audio original) en video/trivia/: video_1.mp4 ... video_5.mp4
-Imágenes en img/trivia/: fondo-intro.png, fondo-juego.png, microfono.png,
-personaje-intro.png, personaje-juego.png, burbujas.png
-Los nombres, textos y respuestas (real / clonada) se editan en la lista PARTES de trivia.js
